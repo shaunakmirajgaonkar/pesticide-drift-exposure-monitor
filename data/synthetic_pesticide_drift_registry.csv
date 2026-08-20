@@ -1,0 +1,13 @@
+record_id,field_code,spray_date,spray_start_time,crop_type,spray_area_acres,spray_method,wind_speed_kmh,wind_direction,wind_alignment_score,temperature_c,relative_humidity_pct,spray_duration_min,buffer_distance_m,home_distance_m,school_distance_m,water_body_distance_m,farm_distance_m,sensitive_site_density_score,weather_stability_score,spray_schedule_notice_score,drift_control_practice_score,inversion_signal_score,review_status
+PD001,FIELD-A,2026-08-12,06:30,Cotton,18.5,Boom Sprayer,7.2,NE,82,27.1,61,42,90,135,420,310,180,48,72,81,76,22,Priority Review
+PD002,FIELD-A,2026-08-13,07:15,Cotton,12,Boom Sprayer,4.1,E,44,25.4,68,31,140,310,690,520,260,35,84,88,91,12,Monitor
+PD003,FIELD-B,2026-08-14,18:10,Soybean,24,Tractor Sprayer,9.5,SW,76,29,54,58,70,190,260,155,120,67,51,62,58,71,High Review
+PD004,FIELD-B,2026-08-15,09:00,Soybean,9.5,Tractor Sprayer,3,N,28,24.2,73,25,180,410,820,640,350,28,91,92,94,8,Monitor
+PD005,FIELD-C,2026-08-16,05:50,Grapes,7.2,Airblast Sprayer,5.8,W,89,23.7,79,36,55,95,180,110,75,82,67,73,64,44,Priority Review
+PD006,FIELD-C,2026-08-16,16:40,Grapes,6,Airblast Sprayer,11.2,W,93,31.2,47,64,45,82,210,98,60,88,42,49,51,86,Critical Review
+PD007,FIELD-D,2026-08-17,08:20,Wheat,31,Boom Sprayer,6.5,SE,63,26,66,49,210,520,980,740,410,22,79,75,83,15,Monitor
+PD008,FIELD-D,2026-08-17,19:05,Wheat,14,Boom Sprayer,2.2,S,36,22.8,84,27,165,275,600,480,290,39,94,89,96,5,Monitor
+PD009,FIELD-E,2026-08-18,06:10,Vegetables,5.5,Knapsack,4.9,NW,71,24.8,70,33,65,120,145,90,55,91,78,69,61,38,High Review
+PD010,FIELD-E,2026-08-18,10:30,Vegetables,3,Knapsack,1.8,N,21,23.5,76,18,240,480,920,810,500,18,97,95,98,3,Monitor
+PD011,FIELD-F,2026-08-19,07:00,Maize,22,Boom Sprayer,8,NE,84,28.3,58,51,80,150,360,210,140,73,61,70,68,58,High Review
+PD012,FIELD-F,2026-08-19,17:30,Maize,16,Boom Sprayer,10.5,NE,91,30.1,50,55,60,105,240,170,100,79,47,55,52,79,Critical Review
